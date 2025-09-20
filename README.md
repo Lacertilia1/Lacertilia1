@@ -1,6 +1,6 @@
 ## Codewars Progress
 
-![Codewars](https://www.codewars.com/users/Lacertilia1/badges/micro)
+[![Codewars](https://www.codewars.com/users/Lacertilia1/badges/micro)](https://www.codewars.com/users/Lacertilia1/)
 
 ### 🛠️ Skills & Technologies
 
