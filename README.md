@@ -1,3 +1,7 @@
+## Codewars Progress
+
+![Codewars](https://www.codewars.com/users/Lacertilia1/badges/micro)
+
 ### 🛠️ Skills & Technologies
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
