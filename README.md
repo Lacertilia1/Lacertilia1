@@ -1,4 +1,4 @@
-<img width="1920" src="https://github.com/user-attachments/assets/531b2b96-13c0-4880-a42e-31bfe29cb624" />
+[![Earth from Space](https://github.com/user-attachments/assets/531b2b96-13c0-4880-a42e-31bfe29cb624)](https://gist.github.com/Lacertilia1/adb85bbd0de12e4268cb46fcef00681a)
 
 <!--
 
