@@ -1,4 +1,4 @@
-[![giphy](https://github.com/user-attachments/assets/f6442ee7-2de1-404b-ada0-386e8e0750c9)](https://gist.github.com/Lacertilia1/adb85bbd0de12e4268cb46fcef00681a)
+[![6e7773a322722600e2a9548586899090](https://github.com/user-attachments/assets/19d62280-7565-4a65-afd7-c5f224e89108)](https://gist.github.com/Lacertilia1/adb85bbd0de12e4268cb46fcef00681a)
 
 <!-- [![Earth from Space](https://github.com/user-attachments/assets/531b2b96-13c0-4880-a42e-31bfe29cb624)](https://gist.github.com/Lacertilia1/adb85bbd0de12e4268cb46fcef00681a) -->
 
