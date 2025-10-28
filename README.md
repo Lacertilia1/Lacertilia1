@@ -1,6 +1,8 @@
 
 [![output-onlinegiftools](https://github.com/user-attachments/assets/84406e5a-f8c0-4205-a005-366f1c8c5fcd)](https://gist.github.com/Lacertilia1/adb85bbd0de12e4268cb46fcef00681a)
 
+[![Pavel Ivanov profile views](https://u8views.com/api/v1/github/profiles/76626183/views/day-week-month-total-count.svg)](https://u8views.com/github/Lacertilia1)
+
 <!--
 
 ### Ranking
